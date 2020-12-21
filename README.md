@@ -8,21 +8,21 @@
 Below is a screenshot demonstrating how our app was used within the company. 
 Each well is pre-planned through a number of stages involved in the drilling process. Our app was designed to track these stages and downtime within each stage (time tracking). The image below demonstrates adding a new stage to the well within this application as seen from the administrator view.</p>
  
-<img src="img/petroiq.png" style="max-width: 100%" />
+<img src="img/petroiq.png" style="max-width: 80%" />
  <br /><br />
-<em>This image shows event history – when each event was created, edited, approved or rejected.</em>
-<img src="img/petroiq2.png" style="max-width: 100%" />
+<em>This image shows event history – when each event was created, edited, approved or rejected.</em><br />
+<img src="img/petroiq2.png" style="max-width: 80%" />
 <br /><br />
 
-<em>Code sample of event approval:</em>
-<img src="img/petroiqevents.png" style="max-width: 100%" /> 
+<em>Code sample of event approval:</em><br />
+<img src="img/petroiqevents.png" style="max-width: 80%" /> 
 <br /><br />
 <h3>ALLYDVM</h3>
 <p><b>Project description</b>: AllyDVM is a software company providing a client communications system for the veterinary industry. This software was built to automate the process of sending reminder postcards, text messages and emails between a veterinarian and her clients. It also provides a mobile app for clients to visualize appointments, request medication refills, and open a direct dialog with veterinary staff. The practice interface tracks analytics to the veterinary practice regarding client retention, staff production, overall practice productivity, client compliance, medical needs, and much more.</p>
  
 <em>Below is the home screen of AllyDVM for one of our clients, The Cat Doctors, in Tampa, Florida. From this screen, clients can navigate through email communications, directly message clients, look through analytics as well as reports for a variety of business needs. Each practice’s home screen is customizable to their particular preferences.</em>
 
-<img src="img/AllyDVMHomescreen.png" style="max-width: 100%" />
+<img src="img/AllyDVMHomescreen.png" style="max-width: 80%" />
 
 <br /><br />
 
@@ -58,7 +58,7 @@ Each well is pre-planned through a number of stages involved in the drilling pro
 </div>
 <div class="row">
     <img class="col-md-6" src="img/AllyDVMapp2.jpeg" style="max-width: 45%;" />
-    <img class="col-md-6" src="img/AllyDVMapp1.jpeg" style="max-width: 45%;" />
+    <img class="col-md-6" src="img/AllyDVMapp.jpeg" style="max-width: 45%;" />
 </div>
  
 <br /><br />
