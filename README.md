@@ -8,8 +8,7 @@
 Below is a screenshot demonstrating how our app was used within the company. 
 Each well is pre-planned through a number of stages involved in the drilling process. Our app was designed to track these stages and downtime within each stage (time tracking). The image below demonstrates adding a new stage to the well within this application as seen from the administrator view.</p>
  
-
- <img src="img/petroiq.png" width="1200" height="1400" />
+<img src="img/petroiq.png" width="1897" height="1020" />
  
 <em>This image shows event history – when each event was created, edited, approved or rejected.</em>
 
