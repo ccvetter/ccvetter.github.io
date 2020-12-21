@@ -9,14 +9,12 @@ Below is a screenshot demonstrating how our app was used within the company.
 Each well is pre-planned through a number of stages involved in the drilling process. Our app was designed to track these stages and downtime within each stage (time tracking). The image below demonstrates adding a new stage to the well within this application as seen from the administrator view.</p>
  
 <img src="img/petroiq.png" style="max-width: 100%" />
- 
+ <br /><br />
 <em>This image shows event history – when each event was created, edited, approved or rejected.</em>
-
 <img src="img/petroiq2.png" style="max-width: 100%" />
- 
+<br /><br />
 
 <em>Code sample of event approval:</em>
- 
 <img src="img/petroiqevents.png" style="max-width: 100%" /> 
 <br /><br />
 <h3>ALLYDVM</h3>
