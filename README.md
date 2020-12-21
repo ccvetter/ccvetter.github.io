@@ -39,14 +39,14 @@ Each well is pre-planned through a number of stages involved in the drilling pro
 
 <em>These screens show the interface for automatic and direct communications with clients.</em>
 
-<img src="AllyDVMCommunications.png" />
+<img src="img/AllyDVMCommunications.png" />
 <br />
-<img src="AllyDVMmessaging.png" />
+<img src="img/AllyDVMmessaging.png" />
 <br /><br />
 
 <em>Reports of productivity, retention, and compliance are important to any business, and the veterinary field is no different. This image demonstrates one example of how our application provides these reports to each practice.</em>
 
-<img src="AllyDVMReports.png" />
+<img src="img/AllyDVMReports.png" />
 <br />
 
 <p>The AllyDVM applications link with veterinary practice management software to automatically sync with practice data, such as client and patient lists, to provide these reports and communications.</p>
@@ -67,13 +67,13 @@ Each well is pre-planned through a number of stages involved in the drilling pro
  
 <a href="https://reg.uga.edu/general-information/degreeworks/tutorials/">DegreeWorks Tutorials</a>
 
-<img src="DegreeWorks.png" />
+<img src="img/DegreeWorks.png" />
 <br /><br />
 
 <h3>LOCAL WEATHER APPLICATION</h3>
 <p><b>Project description</b>: As a fun challenge for myself and to learn about PHP and Laravel, I created a local weather application with a development time limit of 4 hours, which is demonstrated below.</p>
 
-<img src="weather.png">
+<img src="img/weather.png">
 
 
 
