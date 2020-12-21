@@ -1,4 +1,4 @@
-<h1>Portfolio</h5>
+<h1>Portfolio</h1>
 
 <h5><a href="https://www.linkedin.com/in/chris-vetter-00762b4/">LinkedIn</a>  <a href="https://github.com/ccvetter">Github</a></h5>
 <br /><br />
