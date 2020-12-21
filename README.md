@@ -1,6 +1,6 @@
 <h1>Portfolio</h1>
 
-<h5><a href="https://www.linkedin.com/in/chris-vetter-00762b4/" style="margin-left: 10px;">LinkedIn</a>   <a href="https://github.com/ccvetter">Github</a></h5>
+<h5><a href="https://www.linkedin.com/in/chris-vetter-00762b4/" style="margin-right: 10px;">LinkedIn</a>   <a href="https://github.com/ccvetter">Github</a></h5>
 <br /><br />
 <h3>PETROIQ</h3>
 <p><b>Project description</b>: PetroIQ is a software company created to provide business intelligence for oil companies throughout the US. The first of these companies was ProPetro in Midland, Texas. We created an application to keep track of maintenance and ongoing work at a variety of the company’s oil well locations. 
@@ -55,6 +55,10 @@ Each well is pre-planned through a number of stages involved in the drilling pro
     <img class="col-md-3" src="img/AllyDVMapp5.jpeg" style="max-width: 30%;"/>
     <img class="col-md-3" src="img/AllyDVMapp4.jpeg" style="max-width: 30%;" />
     <img class="col-md-3" src="img/AllyDVMapp3.jpeg" style="max-width: 30%;" />
+</div>
+<div class="row">
+    <img class="col-md-6" src="img/AllyDVMapp2.jpeg" style="max-width: 45%;" />
+    <img class="col-md-6" src="img/AllyDVMapp1.jpeg" style="max-width: 45%;" />
 </div>
  
 <br /><br />
