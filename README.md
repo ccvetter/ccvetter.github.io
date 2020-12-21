@@ -55,9 +55,9 @@ Each well is pre-planned through a number of stages involved in the drilling pro
 
 <p>Below is a compilation of screen shots from the AllyDVM phone app, which was also one of my primary responsibilities, seen here from the client’s point of view.</p>
 <div class="row">
-    <img class="col-md-3" src="img/AllyDVMapp5.jpeg" />
-    <img class="col-md-3" src="img/AllyDVMapp4.jpeg" />
-    <img class="col-md-3" src="img/AllyDVMapp3.jpeg" />
+    <img class="col-md-3" src="img/AllyDVMapp5.jpeg" style="max-width: 30%;"/>
+    <img class="col-md-3" src="img/AllyDVMapp4.jpeg" style="max-width: 30%;" />
+    <img class="col-md-3" src="img/AllyDVMapp3.jpeg" style="max-width: 30%;" />
 </div>
  
 <br /><br />
