@@ -1,7 +1,6 @@
-<h1>Chris Vetter - Portfolio</h1>
 <h5><a href="https://www.linkedin.com/in/chris-vetter-00762b4/">LinkedIn</a></h5>
 <h5><a href="https://github.com/ccvetter">Github</a></h5>
-
+<br /><br />
 <h3>PETROIQ</h3>
 <p><b>Project description</b>: PetroIQ is a software company created to provide business intelligence for oil companies throughout the US. The first of these companies was ProPetro in Midland, Texas. We created an application to keep track of maintenance and ongoing work at a variety of the company’s oil well locations. 
 
