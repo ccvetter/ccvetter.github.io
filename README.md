@@ -74,19 +74,4 @@ Each well is pre-planned through a number of stages involved in the drilling pro
 <h3>LOCAL WEATHER APPLICATION</h3>
 <p><b>Project description</b>: As a fun challenge for myself and to learn about PHP and Laravel, I created a local weather application with a development time limit of 4 hours, which is demonstrated below.</p>
 
-<img src="img/weather.png" style="max-width: 100%" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A link to the code which created this app can be found at: https://github.com/ccvetter/phpweather Also included on this site are other projects in a variety of languages available for your review.  
+<img src="img/weather.png" style="max-width: 100%" />  
