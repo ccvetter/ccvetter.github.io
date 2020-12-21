@@ -8,10 +8,10 @@
 Below is a screenshot demonstrating how our app was used within the company. 
 Each well is pre-planned through a number of stages involved in the drilling process. Our app was designed to track these stages and downtime within each stage (time tracking). The image below demonstrates adding a new stage to the well within this application as seen from the administrator view.</p>
  
-<img src="img/petroiq.png" style="max-width: 80%" />
+<img src="img/petroiq.png" style="max-width: 90%" />
  <br /><br />
 <em>This image shows event history – when each event was created, edited, approved or rejected.</em><br />
-<img src="img/petroiq2.png" style="max-width: 80%" />
+<img src="img/petroiq2.png" style="max-width: 90%" />
 <br /><br />
 
 <em>Code sample of event approval:</em><br />
@@ -30,21 +30,21 @@ Each well is pre-planned through a number of stages involved in the drilling pro
 
 <em>These screens show the process of building a filter to target a specific set of clientele from the practice.</em>
 
-<img src="img/AllyDVMFilters2.png" style="max-width: 100%" />
+<img src="img/AllyDVMFilters2.png" style="max-width: 80%" />
 <br /><br />
-<img src="img/AllyDVMfilters.png" style="max-width: 100%" />
+<img src="img/AllyDVMfilters.png" style="max-width: 80%" />
  <br /><br />
 
 <em>These screens show the interface for automatic and direct communications with clients.</em>
 
-<img src="img/AllyDVMCommunications.png" style="max-width: 100%" />
+<img src="img/AllyDVMCommunications.png" style="max-width: 80%" />
 <br /><br />
-<img src="img/AllyDVMmessaging.png" style="max-width: 100%" />
+<img src="img/AllyDVMmessaging.png" style="max-width: 80%" />
 <br /><br />
 
 <em>Reports of productivity, retention, and compliance are important to any business, and the veterinary field is no different. This image demonstrates one example of how our application provides these reports to each practice.</em>
 
-<img src="img/AllyDVMReports.png" style="max-width: 100%" />
+<img src="img/AllyDVMReports.png" style="max-width: 80%" />
 <br />
 
 <p>The AllyDVM applications link with veterinary practice management software to automatically sync with practice data, such as client and patient lists, to provide these reports and communications.</p>
